@@ -6,4 +6,6 @@ added stuff
   
  ## and smaller
  
- "bold"
+**bold**
+
+*italic*
