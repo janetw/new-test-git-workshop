@@ -1,4 +1,4 @@
 some interesting notes
 This is another line of stuff.
 This is in the notes2.txt
-
+this is a great workshop so far
