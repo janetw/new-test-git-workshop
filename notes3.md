@@ -6,6 +6,10 @@ added stuff
   
  ## and smaller
  
+
 **bold**
 
 *italic*
+ 
+ I am making a change here 
+
